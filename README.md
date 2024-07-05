@@ -96,7 +96,7 @@ The bot will respond with an embedded message containing the armor stats and an 
 
 Here is an example of the bot in action:
 
-![Armor Stats Example](Secreenshot/output-1.png)
+![Armor Stats Example](Screenshot/output-1.png)
 
 ## Contributing
 
