@@ -1,5 +1,8 @@
 # Elden Ring Armor Stats Discord Bot
 
+**Invite the bot to your server:**
+    Use the following [invite link](https://discord.com/oauth2/authorize?client_id=1257737802024484947&permissions=8&scope=bot)
+
 ## Description
 
 The Armor Stats Discord Bot provides detailed statistics for armor sets in a game. Users can query armor sets using commands in Discord, and the bot responds with embedded messages containing the armor stats.
@@ -76,7 +79,7 @@ The Armor Stats Discord Bot provides detailed statistics for armor sets in a gam
     ```
 
 2. **Invite the bot to your server:**
-    Follow Discord's instructions to invite your bot using its client ID.
+    Use the following [invite link](https://discord.com/oauth2/authorize?client_id=1257737802024484947&permissions=8&scope=bot)
 
 3. **Use the command in Discord:**
     - Query an armor set: `!armor <armor_name>`
