@@ -1,0 +1,2752 @@
+[
+    {
+        "Armor_Name": "ALBERICH'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Alberich-1.jpg",
+        "Damage_Negation": {
+            "Physical": 10.9,
+            "VS_Strike": 8.6,
+            "VS_Slash": 10.9,
+            "VS_Pierce": 10.9,
+            "Magic": 25.3,
+            "Fire": 23.6,
+            "Lightning": 24.6,
+            "Holy": 25.3
+        },
+        "Resistance": {
+            "Immunity": 93,
+            "Robustness": 55,
+            "Focus": 159,
+            "Vitality": 170,
+            "Poise": 15
+        },
+        "Armor_Weight": 9.7
+    },
+    {
+        "Armor_Name": "ALBINAURIC SET",
+        "Armor_Image": "https://static.giga.de/wp-content/uploads/2022/06/elden-ring-albinauric-set-rcm480x0.jpg",
+        "Damage_Negation": {
+            "Physical": 14.9,
+            "VS_Strike": 11.6,
+            "VS_Slash": 15.4,
+            "VS_Pierce": 14.7,
+            "Magic": 10.3,
+            "Fire": 11.6,
+            "Lightning": 8,
+            "Holy": 10.3
+        },
+        "Resistance": {
+            "Immunity": 37,
+            "Robustness": 73,
+            "Focus": 31,
+            "Vitality": 31,
+            "Poise": 23
+        },
+        "Armor_Weight": 12.6
+    },
+    {
+        "Armor_Name": "ALL-KNOWING SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_185+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/All-Knowing-1.jpg",
+        "Damage_Negation": {
+            "Physical": 25.5,
+            "VS_Strike": 23.6,
+            "VS_Slash": 26.5,
+            "VS_Pierce": 23.6,
+            "Magic": 24.6,
+            "Fire": 19.1,
+            "Lightning": 20.4,
+            "Holy": 17.8
+        },
+        "Resistance": {
+            "Immunity": 66,
+            "Robustness": 110,
+            "Focus": 50,
+            "Vitality": 50,
+            "Poise": 47
+        },
+        "Armor_Weight": 25.4
+    },
+    {
+        "Armor_Name": "ARISTOCRAT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_185+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Aristocrat-1.jpg",
+        "Damage_Negation": {
+            "Physical": 13.4,
+            "VS_Strike": 14.6,
+            "VS_Slash": 13.4,
+            "VS_Pierce": 13.1,
+            "Magic": 13.4,
+            "Fire": 13.6,
+            "Lightning": 15.1,
+            "Holy": 13.4
+        },
+        "Resistance": {
+            "Immunity": 91,
+            "Robustness": 64,
+            "Focus": 84,
+            "Vitality": 71,
+            "Poise": 21
+        },
+        "Armor_Weight": 9.0
+    },
+    {
+        "Armor_Name": "ASTROLOGER SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Astrologer-1.jpg",
+        "Damage_Negation": {
+            "Physical": 13,
+            "VS_Strike": 11.4,
+            "VS_Slash": 11.4,
+            "VS_Pierce": 11.4,
+            "Magic": 26.7,
+            "Fire": 25.4,
+            "Lightning": 26,
+            "Holy": 25.4
+        },
+        "Resistance": {
+            "Immunity": 113,
+            "Robustness": 55,
+            "Focus": 201,
+            "Vitality": 171,
+            "Poise": 24
+        },
+        "Armor_Weight": 13.3
+    },
+    {
+        "Armor_Name": "AZUR'S GLINTSTONE SET",
+        "Armor_Image": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/03/azur-s-glintstone-set-in-elden-ring.jpg",
+        "Damage_Negation": {
+            "Physical": 13.6,
+            "VS_Strike": 12.6,
+            "VS_Slash": 9.7,
+            "VS_Pierce": 10.9,
+            "Magic": 29.2,
+            "Fire": 24.6,
+            "Lightning": 25.2,
+            "Holy": 26.5
+        },
+        "Resistance": {
+            "Immunity": 109,
+            "Robustness": 63,
+            "Focus": 204,
+            "Vitality": 186,
+            "Poise": 21
+        },
+        "Armor_Weight": 14.3
+    },
+    {
+        "Armor_Name": "BANDIT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Bandit-1.jpg",
+        "Damage_Negation": {
+            "Physical": 15.1,
+            "VS_Strike": 16.6,
+            "VS_Slash": 18.1,
+            "VS_Pierce": 18.1,
+            "Magic": 19.4,
+            "Fire": 19.4,
+            "Lightning": 20.7,
+            "Holy": 18.1
+        },
+        "Resistance": {
+            "Immunity": 124,
+            "Robustness": 74,
+            "Focus": 130,
+            "Vitality": 130,
+            "Poise": 29
+        },
+        "Armor_Weight": 16.8
+    },
+    {
+        "Armor_Name": "BANISHED KNIGHT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Banished-Knight-1.jpg",
+        "Damage_Negation": {
+            "Physical": 35.5,
+            "VS_Strike": 29.2,
+            "VS_Slash": 36.4,
+            "VS_Pierce": 33.5,
+            "Magic": 26.5,
+            "Fire": 26.5,
+            "Lightning": 25.6,
+            "Holy": 26.1
+        },
+        "Resistance": {
+            "Immunity": 143,
+            "Robustness": 197,
+            "Focus": 91,
+            "Vitality": 160,
+            "Poise": 72
+        },
+        "Armor_Weight": 41.6
+    },
+    {
+        "Armor_Name": "BATTLEMAGE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Battlemage-1.jpg",
+        "Damage_Negation": {
+            "Physical": 11.1,
+            "VS_Strike": 12.7,
+            "VS_Slash": 8.9,
+            "VS_Pierce": 11.1,
+            "Magic": 25.7,
+            "Fire": 23.7,
+            "Lightning": 24.6,
+            "Holy": 25
+        },
+        "Resistance": {
+            "Immunity": 103,
+            "Robustness": 55,
+            "Focus": 155,
+            "Vitality": 176,
+            "Poise": 22
+        },
+        "Armor_Weight": 10.4
+    },
+    {
+        "Armor_Name": "BEAST CHAMPION SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Beast-Champion-1.jpg",
+        "Damage_Negation": {
+            "Physical": 33.5,
+            "VS_Strike": 31.5,
+            "VS_Slash": 35.5,
+            "VS_Pierce": 34.9,
+            "Magic": 25.6,
+            "Fire": 27,
+            "Lightning": 25.3,
+            "Holy": 26.5
+        },
+        "Resistance": {
+            "Immunity": 135,
+            "Robustness": 215,
+            "Focus": 100,
+            "Vitality": 91,
+            "Poise": 72
+        },
+        "Armor_Weight": 41.6
+    },
+    {
+        "Armor_Name": "BLACK KNIFE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Black-Knife-1.jpg",
+        "Damage_Negation": {
+            "Physical": 22.5,
+            "VS_Strike": 21.6,
+            "VS_Slash": 24.4,
+            "VS_Pierce": 24.4,
+            "Magic": 17.5,
+            "Fire": 18.9,
+            "Lightning": 13.5,
+            "Holy": 22.5
+        },
+        "Resistance": {
+            "Immunity": 65,
+            "Robustness": 108,
+            "Focus": 54,
+            "Vitality": 54,
+            "Poise": 40
+        },
+        "Armor_Weight": 21.8
+    },
+    {
+        "Armor_Name": "BLACKFLAME MONK SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Blackflame-Monk-1.jpg",
+        "Damage_Negation": {
+            "Physical": 26.1,
+            "VS_Strike": 22.2,
+            "VS_Slash": 28,
+            "VS_Pierce": 25.2,
+            "Magic": 19.8,
+            "Fire": 25.4,
+            "Lightning": 15.6,
+            "Holy": 19.8
+        },
+        "Resistance": {
+            "Immunity": 74,
+            "Robustness": 127,
+            "Focus": 46,
+            "Vitality": 74,
+            "Poise": 50
+        },
+        "Armor_Weight": 27
+    },
+    {
+        "Armor_Name": "BLAIDD'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Blaidd-1.jpg",
+        "Damage_Negation": {
+            "Physical": 28.5,
+            "VS_Strike": 25.4,
+            "VS_Slash": 28.5,
+            "VS_Pierce": 29.7,
+            "Magic": 22.6,
+            "Fire": 25.1,
+            "Lightning": 20.9,
+            "Holy": 23.6
+        },
+        "Resistance": {
+            "Immunity": 91,
+            "Robustness": 169,
+            "Focus": 60,
+            "Vitality": 60,
+            "Poise": 60
+        },
+        "Armor_Weight": 32.7
+    },
+    {
+        "Armor_Name": "BLOODHOUND KNIGHT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Bloodhound-Knight-1.jpg",
+        "Damage_Negation": {
+            "Physical": 24.6,
+            "VS_Strike": 22.6,
+            "VS_Slash": 27.6,
+            "VS_Pierce": 26.5,
+            "Magic": 19.1,
+            "Fire": 20.4,
+            "Lightning": 14.5,
+            "Holy": 20.4
+        },
+        "Resistance": {
+            "Immunity": 74,
+            "Robustness": 120,
+            "Focus": 55,
+            "Vitality": 55,
+            "Poise": 40
+        },
+        "Armor_Weight": 25.3
+    },
+    {
+        "Armor_Name": "BLOODSOAKED SET",
+        "Armor_Image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/elden-ring-bloodsoaked-set.jpg",
+        "Damage_Negation": {
+            "Physical": 3,
+            "VS_Strike": 3.2,
+            "VS_Slash": 2.7,
+            "VS_Pierce": 2.6,
+            "Magic": 7.5,
+            "Fire": 7.3,
+            "Lightning": 7.4,
+            "Holy": 7.5
+        },
+        "Resistance": {
+            "Immunity": 32,
+            "Robustness": 19,
+            "Focus": 54,
+            "Vitality": 19,
+            "Poise": 5
+        },
+        "Armor_Weight": 3.6
+    },
+    {
+        "Armor_Name": "BLUE CLOTH SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Blue-Cloth-Warrior-1.jpg",
+        "Damage_Negation": {
+            "Physical": 18.6,
+            "VS_Strike": 15.7,
+            "VS_Slash": 18.6,
+            "VS_Pierce": 15.7,
+            "Magic": 20,
+            "Fire": 21.4,
+            "Lightning": 23.3,
+            "Holy": 18.6
+        },
+        "Resistance": {
+            "Immunity": 147,
+            "Robustness": 97,
+            "Focus": 116,
+            "Vitality": 116,
+            "Poise": 33
+        },
+        "Armor_Weight": 17.8
+    },
+    {
+        "Armor_Name": "BLUE FESTIVE SET",
+        "Armor_Image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/elden-ring-blue-festive-set.jpg",
+        "Damage_Negation": {
+            "Physical": 5.5,
+            "VS_Strike": 5.5,
+            "VS_Slash": 8,
+            "VS_Pierce": 7,
+            "Magic": 16.5,
+            "Fire": 14.9,
+            "Lightning": 16.5,
+            "Holy": 18
+        },
+        "Resistance": {
+            "Immunity": 66,
+            "Robustness": 30,
+            "Focus": 102,
+            "Vitality": 90,
+            "Poise": 9
+        },
+        "Armor_Weight": 5.8
+    },
+    {
+        "Armor_Name": "BLUE SILVER SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Blue-Silver-Mail-1.jpg",
+        "Damage_Negation": {
+            "Physical": 23.5,
+            "VS_Strike": 17.9,
+            "VS_Slash": 24.5,
+            "VS_Pierce": 21.5,
+            "Magic": 20.6,
+            "Fire": 19.2,
+            "Lightning": 14.7,
+            "Holy": 14.7
+        },
+        "Resistance": {
+            "Immunity": 54,
+            "Robustness": 133,
+            "Focus": 34,
+            "Vitality": 34,
+            "Poise": 38
+        },
+        "Armor_Weight": 20.6
+    },
+    {
+        "Armor_Name": "BRIAR SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Briar-1.jpg",
+        "Damage_Negation": {
+            "Physical": 25.5,
+            "VS_Strike": 22.6,
+            "VS_Slash": 26.5,
+            "VS_Pierce": 24.6,
+            "Magic": 21.7,
+            "Fire": 24.6,
+            "Lightning": 17.8,
+            "Holy": 21.7
+        },
+        "Resistance": {
+            "Immunity": 113,
+            "Robustness": 140,
+            "Focus": 86,
+            "Vitality": 80,
+            "Poise": 47
+        },
+        "Armor_Weight": 28.1
+    },
+    {
+        "Armor_Name": "BULL-GOAT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Bull-Goat-1-1.jpg",
+        "Damage_Negation": {
+            "Physical": 38.505,
+            "VS_Strike": 38.214,
+            "VS_Slash": 34.989,
+            "VS_Pierce": 34.989,
+            "Magic": 26.174,
+            "Fire": 26.501,
+            "Lightning": 28.989,
+            "Holy": 25.352
+        },
+        "Resistance": {
+            "Immunity": 170,
+            "Robustness": 197,
+            "Focus": 110,
+            "Vitality": 130,
+            "Poise": 99.99
+        },
+        "Armor_Weight": 63
+    },
+    {
+        "Armor_Name": "CARIAN KNIGHT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Carian-Knight-1.jpg",
+        "Damage_Negation": {
+            "Physical": 23.5,
+            "VS_Strike": 21.6,
+            "VS_Slash": 24.5,
+            "VS_Pierce": 23.5,
+            "Magic": 24.5,
+            "Fire": 23.5,
+            "Lightning": 19.1,
+            "Holy": 23.5
+        },
+        "Resistance": {
+            "Immunity": 66,
+            "Robustness": 110,
+            "Focus": 50,
+            "Vitality": 55,
+            "Poise": 40
+        },
+        "Armor_Weight": 25.1
+    },
+    {
+        "Armor_Name": "CHAIN SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Chain-1.jpg",
+        "Damage_Negation": {
+            "Physical": 23.6,
+            "VS_Strike": 17.8,
+            "VS_Slash": 25.5,
+            "VS_Pierce": 23.6,
+            "Magic": 14.5,
+            "Fire": 21.7,
+            "Lightning": 12.5,
+            "Holy": 16.2
+        },
+        "Resistance": {
+            "Immunity": 60,
+            "Robustness": 100,
+            "Focus": 27,
+            "Vitality": 43,
+            "Poise": 37
+        },
+        "Armor_Weight": 21
+    },
+    {
+        "Armor_Name": "CHAMPION SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Champion-1.jpg",
+        "Damage_Negation": {
+            "Physical": 13.1,
+            "VS_Strike": 17,
+            "VS_Slash": 14.1,
+            "VS_Pierce": 15.4,
+            "Magic": 15.4,
+            "Fire": 18.5,
+            "Lightning": 19.8,
+            "Holy": 18.5
+        },
+        "Resistance": {
+            "Immunity": 116,
+            "Robustness": 73,
+            "Focus": 96,
+            "Vitality": 88,
+            "Poise": 22
+        },
+        "Armor_Weight": 13.8
+    },
+    {
+        "Armor_Name": "CLEANROT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Cleanrot-1.jpg",
+        "Damage_Negation": {
+            "Physical": 28.5,
+            "VS_Strike": 31,
+            "VS_Slash": 26.3,
+            "VS_Pierce": 33.5,
+            "Magic": 24.9,
+            "Fire": 25.3,
+            "Lightning": 22.6,
+            "Holy": 26.5
+        },
+        "Resistance": {
+            "Immunity": 150,
+            "Robustness": 159,
+            "Focus": 66,
+            "Vitality": 77,
+            "Poise": 58
+        },
+        "Armor_Weight": 35.7
+    },
+    {
+        "Armor_Name": "COMMONER'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Commoner-1.jpg",
+        "Damage_Negation": {
+            "Physical": 7.5,
+            "VS_Strike": 11.1,
+            "VS_Slash": 11.1,
+            "VS_Pierce": 9.5,
+            "Magic": 22.5,
+            "Fire": 21.3,
+            "Lightning": 21.9,
+            "Holy": 22.5
+        },
+        "Resistance": {
+            "Immunity": 79,
+            "Robustness": 49,
+            "Focus": 142,
+            "Vitality": 153,
+            "Poise": 13
+        },
+        "Armor_Weight": 8.5
+    },
+    {
+        "Armor_Name": "CONFESSOR SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Confessor-1.jpg",
+        "Damage_Negation": {
+            "Physical": 17.1,
+            "VS_Strike": 21.2,
+            "VS_Slash": 17.1,
+            "VS_Pierce": 18.6,
+            "Magic": 22.2,
+            "Fire": 22.2,
+            "Lightning": 24.2,
+            "Holy": 19.9
+        },
+        "Resistance": {
+            "Immunity": 147,
+            "Robustness": 116,
+            "Focus": 116,
+            "Vitality": 126,
+            "Poise": 33
+        },
+        "Armor_Weight": 19.2
+    },
+    {
+        "Armor_Name": "CONSORT'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Ruler-1.jpg",
+        "Damage_Negation": {
+            "Physical": 10.7,
+            "VS_Strike": 9,
+            "VS_Slash": 8.7,
+            "VS_Pierce": 10.4,
+            "Magic": 23.4,
+            "Fire": 22.5,
+            "Lightning": 22.5,
+            "Holy": 23.2
+        },
+        "Resistance": {
+            "Immunity": 99,
+            "Robustness": 54,
+            "Focus": 147,
+            "Vitality": 137,
+            "Poise": 16
+        },
+        "Armor_Weight": 10.2
+    },
+    {
+        "Armor_Name": "CRUCIBLE AXE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Crucible-1.jpg",
+        "Damage_Negation": {
+            "Physical": 33.8,
+            "VS_Strike": 27.3,
+            "VS_Slash": 33,
+            "VS_Pierce": 31.1,
+            "Magic": 25.6,
+            "Fire": 24.2,
+            "Lightning": 22.6,
+            "Holy": 27.6
+        },
+        "Resistance": {
+            "Immunity": 120,
+            "Robustness": 170,
+            "Focus": 84,
+            "Vitality": 84,
+            "Poise": 71
+        },
+        "Armor_Weight": 36.9
+    },
+    {
+        "Armor_Name": "CRUCIBLE TREE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Crucible-Tree-1.jpg",
+        "Damage_Negation": {
+            "Physical": 33.8,
+            "VS_Strike": 27.3,
+            "VS_Slash": 33,
+            "VS_Pierce": 31.1,
+            "Magic": 25.6,
+            "Fire": 24.2,
+            "Lightning": 22.6,
+            "Holy": 27.6
+        },
+        "Resistance": {
+            "Immunity": 120,
+            "Robustness": 170,
+            "Focus": 84,
+            "Vitality": 84,
+            "Poise": 71
+        },
+        "Armor_Weight": 36.9
+    },
+    {
+        "Armor_Name": "CUCKOO KNIGHT SET",
+        "Armor_Image": "https://cdn.segmentnextimages.com/wp-content/uploads/2022/04/Elden-Ring-Cuckoo-Knight-Set-1493x840.jpg",
+        "Damage_Negation": {
+            "Physical": 26.5,
+            "VS_Strike": 22.6,
+            "VS_Slash": 28.5,
+            "VS_Pierce": 26.5,
+            "Magic": 24.6,
+            "Fire": 23.6,
+            "Lightning": 17.8,
+            "Holy": 20.4
+        },
+        "Resistance": {
+            "Immunity": 77,
+            "Robustness": 135,
+            "Focus": 57,
+            "Vitality": 57,
+            "Poise": 51
+        },
+        "Armor_Weight": 28.1
+    },
+    {
+        "Armor_Name": "DEPRAVED PERFUMER SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Depraved-Perfumer-1.jpg",
+        "Damage_Negation": {
+            "Physical": 12.8,
+            "VS_Strike": 12.8,
+            "VS_Slash": 11.5,
+            "VS_Pierce": 9.5,
+            "Magic": 26,
+            "Fire": 25.2,
+            "Lightning": 24.8,
+            "Holy": 25.2
+        },
+        "Resistance": {
+            "Immunity": 162,
+            "Robustness": 55,
+            "Focus": 140,
+            "Vitality": 200,
+            "Poise": 20
+        },
+        "Armor_Weight": 13.4
+    },
+    {
+        "Armor_Name": "DRAKE KNIGHT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Drake-Knight-1.jpg",
+        "Damage_Negation": {
+            "Physical": 22.6,
+            "VS_Strike": 23.6,
+            "VS_Slash": 19.1,
+            "VS_Pierce": 22.6,
+            "Magic": 20.4,
+            "Fire": 22.6,
+            "Lightning": 17.8,
+            "Holy": 20.4
+        },
+        "Resistance": {
+            "Immunity": 60,
+            "Robustness": 110,
+            "Focus": 50,
+            "Vitality": 50,
+            "Poise": 40
+        },
+        "Armor_Weight": 22
+    },
+    {
+        "Armor_Name": "DUELIST SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Rotten-Duelist-1.jpg",
+        "Damage_Negation": {
+            "Physical": 19.4,
+            "VS_Strike": 19.6,
+            "VS_Slash": 19.7,
+            "VS_Pierce": 19.2,
+            "Magic": 16.8,
+            "Fire": 19.4,
+            "Lightning": 18.1,
+            "Holy": 18
+        },
+        "Resistance": {
+            "Immunity": 116,
+            "Robustness": 80,
+            "Focus": 68,
+            "Vitality": 69,
+            "Poise": 36
+        },
+        "Armor_Weight": 19.8
+    },
+    {
+        "Armor_Name": "ECCENTRIC SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Eccentric-1.jpg",
+        "Damage_Negation": {
+            "Physical": 24.4,
+            "VS_Strike": 23.4,
+            "VS_Slash": 19.5,
+            "VS_Pierce": 24.4,
+            "Magic": 19.5,
+            "Fire": 20.2,
+            "Lightning": 13.2,
+            "Holy": 17.4
+        },
+        "Resistance": {
+            "Immunity": 72,
+            "Robustness": 133,
+            "Focus": 45,
+            "Vitality": 40,
+            "Poise": 41
+        },
+        "Armor_Weight": 22.6
+    },
+    {
+        "Armor_Name": "ELDEN LORD SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Elden-Lord-1.jpg",
+        "Damage_Negation": {
+            "Physical": 23,
+            "VS_Strike": 21.1,
+            "VS_Slash": 22.1,
+            "VS_Pierce": 24,
+            "Magic": 16.8,
+            "Fire": 22.1,
+            "Lightning": 13.9,
+            "Holy": 15.35
+        },
+        "Resistance": {
+            "Immunity": 70,
+            "Robustness": 124,
+            "Focus": 31,
+            "Vitality": 44,
+            "Poise": 38
+        },
+        "Armor_Weight": 21.4
+    },
+    {
+        "Armor_Name": "ERRANT SORCERER SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Errant-Sorcerer-1.jpg",
+        "Damage_Negation": {
+            "Physical": 9.7,
+            "VS_Strike": 9.7,
+            "VS_Slash": 13.3,
+            "VS_Pierce": 9.7,
+            "Magic": 25.9,
+            "Fire": 25.1,
+            "Lightning": 24.6,
+            "Holy": 25.9
+        },
+        "Resistance": {
+            "Immunity": 90,
+            "Robustness": 56,
+            "Focus": 174,
+            "Vitality": 186,
+            "Poise": 18
+        },
+        "Armor_Weight": 11.3
+    },
+    {
+        "Armor_Name": "EXILE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_766+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Exile-1.jpg",
+        "Damage_Negation": {
+            "Physical": 24.4,
+            "VS_Strike": 19,
+            "VS_Slash": 25.4,
+            "VS_Pierce": 24.4,
+            "Magic": 16,
+            "Fire": 21.6,
+            "Lightning": 13.6,
+            "Holy": 19
+        },
+        "Resistance": {
+            "Immunity": 65,
+            "Robustness": 129,
+            "Focus": 49,
+            "Vitality": 41,
+            "Poise": 40
+        },
+        "Armor_Weight": 21.8
+    },
+    {
+        "Armor_Name": "FESTIVE SET",
+        "Armor_Image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/festive_garb_elden_ring_wiki_guide_200px.png",
+        "Damage_Negation": {
+            "Physical": 5.5,
+            "VS_Strike": 7,
+            "VS_Slash": 8,
+            "VS_Pierce": 7,
+            "Magic": 16.5,
+            "Fire": 15.6,
+            "Lightning": 16.2,
+            "Holy": 17
+        },
+        "Resistance": {
+            "Immunity": 60,
+            "Robustness": 30,
+            "Focus": 96,
+            "Vitality": 96,
+            "Poise": 9
+        },
+        "Armor_Weight": "5.8 Weight"
+    },
+    {
+        "Armor_Name": "FIA'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Fia-1.jpg",
+        "Damage_Negation": {
+            "Physical": 6.6,
+            "VS_Strike": 7.7,
+            "VS_Slash": 6.6,
+            "VS_Pierce": 6.6,
+            "Magic": 16.4,
+            "Fire": 16,
+            "Lightning": 16.4,
+            "Holy": 17
+        },
+        "Resistance": {
+            "Immunity": 64,
+            "Robustness": 29,
+            "Focus": 105,
+            "Vitality": 153,
+            "Poise": 10
+        },
+        "Armor_Weight": "6.8 Weight"
+    },
+    {
+        "Armor_Name": "FINGER MAIDEN SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Finger-Maiden-1.jpg",
+        "Damage_Negation": {
+            "Physical": 11.7,
+            "VS_Strike": 9.9,
+            "VS_Slash": 9.9,
+            "VS_Pierce": 6.2,
+            "Magic": 26.6,
+            "Fire": 25.5,
+            "Lightning": 25.7,
+            "Holy": 26.6
+        },
+        "Resistance": {
+            "Immunity": 95,
+            "Robustness": 52,
+            "Focus": 158,
+            "Vitality": 161,
+            "Poise": 20
+        },
+        "Armor_Weight": "10.9 Weight"
+    },
+    {
+        "Armor_Name": "FINGERPRINT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Fingerprint-1.jpg",
+        "Damage_Negation": {
+            "Physical": 26.5,
+            "VS_Strike": 23.6,
+            "VS_Slash": 23.6,
+            "VS_Pierce": 23.6,
+            "Magic": 19.1,
+            "Fire": 24.9,
+            "Lightning": 13.7,
+            "Holy": 19.1
+        },
+        "Resistance": {
+            "Immunity": 77,
+            "Robustness": 143,
+            "Focus": 27,
+            "Vitality": 55,
+            "Poise": 51
+        },
+        "Armor_Weight": "25.3 Weight"
+    },
+    {
+        "Armor_Name": "FIRE MONK SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Fire-Monk-1.jpg",
+        "Damage_Negation": {
+            "Physical": 27.1,
+            "VS_Strike": 24.1,
+            "VS_Slash": 26,
+            "VS_Pierce": 24.2,
+            "Magic": 21.2,
+            "Fire": 26,
+            "Lightning": 18.4,
+            "Holy": 18.4
+        },
+        "Resistance": {
+            "Immunity": 74,
+            "Robustness": 127,
+            "Focus": 56,
+            "Vitality": 56,
+            "Poise": 46
+        },
+        "Armor_Weight": "27 Weight"
+    },
+    {
+        "Armor_Name": "FIRE PRELATE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Fire-Prelate-1.jpg",
+        "Damage_Negation": {
+            "Physical": 36.5,
+            "VS_Strike": 32.7,
+            "VS_Slash": 35,
+            "VS_Pierce": 35,
+            "Magic": 26.5,
+            "Fire": 37.4,
+            "Lightning": 25.6,
+            "Holy": 26.2
+        },
+        "Resistance": {
+            "Immunity": 159,
+            "Robustness": 150,
+            "Focus": 215,
+            "Vitality": 120,
+            "Poise": 96
+        },
+        "Armor_Weight": "58.8 Weight"
+    },
+    {
+        "Armor_Name": "FUR SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Fur-1.jpg",
+        "Damage_Negation": {
+            "Physical": 11.8,
+            "VS_Strike": 13,
+            "VS_Slash": 11.8,
+            "VS_Pierce": 11.8,
+            "Magic": 13,
+            "Fire": 13.8,
+            "Lightning": 16.6,
+            "Holy": 13.8
+        },
+        "Resistance": {
+            "Immunity": 135,
+            "Robustness": 91,
+            "Focus": 116,
+            "Vitality": 84,
+            "Poise": 17
+        },
+        "Armor_Weight": "11.5 Weight"
+    },
+    {
+        "Armor_Name": "GELMIR KNIGHT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Gelmir-Knight-1.jpg",
+        "Damage_Negation": {
+            "Physical": 26.5,
+            "VS_Strike": 22.6,
+            "VS_Slash": 27.4,
+            "VS_Pierce": 26.5,
+            "Magic": 21.7,
+            "Fire": 24.6,
+            "Lightning": 20.4,
+            "Holy": 21.7
+        },
+        "Resistance": {
+            "Immunity": 83,
+            "Robustness": 130,
+            "Focus": 57,
+            "Vitality": 55,
+            "Poise": 51
+        },
+        "Armor_Weight": "28.1 Weight"
+    },
+    {
+        "Armor_Name": "GENERAL RADAHN SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Radhan-1.jpg",
+        "Damage_Negation": {
+            "Physical": 35.5,
+            "VS_Strike": 34.9,
+            "VS_Slash": 29.2,
+            "VS_Pierce": 33.5,
+            "Magic": 26.5,
+            "Fire": 27.6,
+            "Lightning": 24.9,
+            "Holy": 26.5
+        },
+        "Resistance": {
+            "Immunity": 143,
+            "Robustness": 235,
+            "Focus": 100,
+            "Vitality": 91,
+            "Poise": 72
+        },
+        "Armor_Weight": "41.6 Weight"
+    },
+    {
+        "Armor_Name": "GODRICK FOOT SOLDIER SET",
+        "Armor_Image": "https://www.gamerguides.com/assets/media/14/2457/godrick_foot_soldier_set.png",
+        "Damage_Negation": {
+            "Physical": 19,
+            "VS_Strike": 19,
+            "VS_Slash": 20.3,
+            "VS_Pierce": 19,
+            "Magic": 21.6,
+            "Fire": 22.6,
+            "Lightning": 23.5,
+            "Holy": 21.6
+        },
+        "Resistance": {
+            "Immunity": 149,
+            "Robustness": 99,
+            "Focus": 129,
+            "Vitality": 129,
+            "Poise": 36
+        },
+        "Armor_Weight": "19.6 Weight"
+    },
+    {
+        "Armor_Name": "GODRICK KNIGHT SET",
+        "Armor_Image": "https://i.redd.it/d4jf9taqmbk81.jpg",
+        "Damage_Negation": {
+            "Physical": 26.5,
+            "VS_Strike": 23.6,
+            "VS_Slash": 27.4,
+            "VS_Pierce": 25.5,
+            "Magic": 21.7,
+            "Fire": 24.6,
+            "Lightning": 21.7,
+            "Holy": 21.7
+        },
+        "Resistance": {
+            "Immunity": 83,
+            "Robustness": 130,
+            "Focus": 57,
+            "Vitality": 55,
+            "Poise": 51
+        },
+        "Armor_Weight": "28.1 Weight"
+    },
+    {
+        "Armor_Name": "GODRICK SOLDIER SET",
+        "Armor_Image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/elden-ring/7/73/Soldiers-of-godrick.JPG?width=814",
+        "Damage_Negation": {
+            "Physical": 25.3,
+            "VS_Strike": 22.3,
+            "VS_Slash": 25.3,
+            "VS_Pierce": 24.4,
+            "Magic": 20,
+            "Fire": 21.6,
+            "Lightning": 15.9,
+            "Holy": 18.9
+        },
+        "Resistance": {
+            "Immunity": 75,
+            "Robustness": 129,
+            "Focus": 54,
+            "Vitality": 54,
+            "Poise": 47
+        },
+        "Armor_Weight": "24.7 Weight"
+    },
+    {
+        "Armor_Name": "GODSKIN APOSTLE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Godskin-Apostle-1.jpg",
+        "Damage_Negation": {
+            "Physical": 12.8,
+            "VS_Strike": 11.5,
+            "VS_Slash": 11.5,
+            "VS_Pierce": 6.7,
+            "Magic": 25,
+            "Fire": 23.9,
+            "Lightning": 24.7,
+            "Holy": 27.2
+        },
+        "Resistance": {
+            "Immunity": 105,
+            "Robustness": 52,
+            "Focus": 169,
+            "Vitality": 158,
+            "Poise": 19
+        },
+        "Armor_Weight": "10.9 Weight"
+    },
+    {
+        "Armor_Name": "GODSKIN NOBLE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Godskin-Noble-1.jpg",
+        "Damage_Negation": {
+            "Physical": 10.7,
+            "VS_Strike": 17.7,
+            "VS_Slash": 12.4,
+            "VS_Pierce": 10.7,
+            "Magic": 25.3,
+            "Fire": 23.6,
+            "Lightning": 24.3,
+            "Holy": 27
+        },
+        "Resistance": {
+            "Immunity": 100,
+            "Robustness": 57,
+            "Focus": 166,
+            "Vitality": 178,
+            "Poise": 24
+        },
+        "Armor_Weight": "12.2 Weight"
+    },
+    {
+        "Armor_Name": "GOLDMASK'S SET",
+        "Armor_Image": "https://static.fandomspot.com/images/06/35426/05-goldmasks-set-elden-ring-screenshot.jpg",
+        "Damage_Negation": {
+            "Physical": 11,
+            "VS_Strike": 8.9,
+            "VS_Slash": 8.9,
+            "VS_Pierce": 5,
+            "Magic": 24.5,
+            "Fire": 23.8,
+            "Lightning": 24.5,
+            "Holy": 26.1
+        },
+        "Resistance": {
+            "Immunity": 108,
+            "Robustness": 39,
+            "Focus": 169,
+            "Vitality": 169,
+            "Poise": 16
+        },
+        "Armor_Weight": "9.8 Weight"
+    },
+    {
+        "Armor_Name": "GUARDIAN SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Guardian-1.jpg",
+        "Damage_Negation": {
+            "Physical": 20.5,
+            "VS_Strike": 19.8,
+            "VS_Slash": 19.2,
+            "VS_Pierce": 17.8,
+            "Magic": 22.7,
+            "Fire": 21.6,
+            "Lightning": 22.7,
+            "Holy": 22.7
+        },
+        "Resistance": {
+            "Immunity": 166,
+            "Robustness": 108,
+            "Focus": 124,
+            "Vitality": 120,
+            "Poise": 32
+        },
+        "Armor_Weight": "19.9 Weight"
+    },
+    {
+        "Armor_Name": "GUILTY SET",
+        "Armor_Image": "https://i.redd.it/75rnuulb7wu81.jpg",
+        "Damage_Negation": {
+            "Physical": 8.9,
+            "VS_Strike": 7.7,
+            "VS_Slash": 5.8,
+            "VS_Pierce": 6.5,
+            "Magic": 22.7,
+            "Fire": 21.8,
+            "Lightning": 21.5,
+            "Holy": 22.3
+        },
+        "Resistance": {
+            "Immunity": 83,
+            "Robustness": 46,
+            "Focus": 124,
+            "Vitality": 128,
+            "Poise": 10
+        },
+        "Armor_Weight": "6.6 Weight"
+    },
+    {
+        "Armor_Name": "HALIGTREE FOOT SOLDIER SET",
+        "Armor_Image": "https://www.gamerguides.com/assets/media/14/2462/haligtree_foot_soldier_set2.png",
+        "Damage_Negation": {
+            "Physical": 20.4,
+            "VS_Strike": 22.8,
+            "VS_Slash": 19.4,
+            "VS_Pierce": 21.3,
+            "Magic": 22.5,
+            "Fire": 23.9,
+            "Lightning": 25.7,
+            "Holy": 24.1
+        },
+        "Resistance": {
+            "Immunity": 149,
+            "Robustness": 99,
+            "Focus": 129,
+            "Vitality": 132,
+            "Poise": 34
+        },
+        "Armor_Weight": "19.6 Weight"
+    },
+    {
+        "Armor_Name": "HALIGTREE KNIGHT SET",
+        "Armor_Image": "https://i.redd.it/vgczzc9785x81.jpg",
+        "Damage_Negation": {
+            "Physical": 26.5,
+            "VS_Strike": 24.6,
+            "VS_Slash": 26.5,
+            "VS_Pierce": 26.5,
+            "Magic": 20.4,
+            "Fire": 22.6,
+            "Lightning": 19.1,
+            "Holy": 22.6
+        },
+        "Resistance": {
+            "Immunity": 84,
+            "Robustness": 135,
+            "Focus": 57,
+            "Vitality": 59,
+            "Poise": 47
+        },
+        "Armor_Weight": "28.1 Weight"
+    },
+    {
+        "Armor_Name": "HALIGTREE SET",
+        "Armor_Image": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_05_266.png",
+        "Damage_Negation": {
+            "Physical": 25.3,
+            "VS_Strike": 24.4,
+            "VS_Slash": 23.3,
+            "VS_Pierce": 25.3,
+            "Magic": 18.6,
+            "Fire": 20.3,
+            "Lightning": 15.9,
+            "Holy": 20.3
+        },
+        "Resistance": {
+            "Immunity": 75,
+            "Robustness": 129,
+            "Focus": 64,
+            "Vitality": 57,
+            "Poise": 43
+        },
+        "Armor_Weight": "24.7 Weight"
+    },
+    {
+        "Armor_Name": "HIGH PAGE SET",
+        "Armor_Image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/page.jpg",
+        "Damage_Negation": {
+            "Physical": 6.3,
+            "VS_Strike": 8.5,
+            "VS_Slash": 6.3,
+            "VS_Pierce": 6.3,
+            "Magic": 17.4,
+            "Fire": 16.4,
+            "Lightning": 16.8,
+            "Holy": 17.1
+        },
+        "Resistance": {
+            "Immunity": 81,
+            "Robustness": 44,
+            "Focus": 147,
+            "Vitality": 147,
+            "Poise": 17
+        },
+        "Armor_Weight": "9.2 Weight"
+    },
+    {
+        "Armor_Name": "HIGHWAYMAN SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Foot-Soldier-1.jpg",
+        "Damage_Negation": {
+            "Physical": 12.2,
+            "VS_Strike": 15.5,
+            "VS_Slash": 12.2,
+            "VS_Pierce": 13.4,
+            "Magic": 16.6,
+            "Fire": 16.6,
+            "Lightning": 17.3,
+            "Holy": 15.5
+        },
+        "Resistance": {
+            "Immunity": 139,
+            "Robustness": 88,
+            "Focus": 123,
+            "Vitality": 123,
+            "Poise": 33
+        },
+        "Armor_Weight": "17.1 Weight"
+    },
+    {
+        "Armor_Name": "HOSLOW'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Hoslow-1.jpg",
+        "Damage_Negation": {
+            "Physical": 27.6,
+            "VS_Strike": 23.7,
+            "VS_Slash": 26.6,
+            "VS_Pierce": 24.9,
+            "Magic": 21.9,
+            "Fire": 23.7,
+            "Lightning": 20.6,
+            "Holy": 20.6
+        },
+        "Resistance": {
+            "Immunity": 93,
+            "Robustness": 144,
+            "Focus": 58,
+            "Vitality": 50,
+            "Poise": 48
+        },
+        "Armor_Weight": "28.5 Weight"
+    },
+    {
+        "Armor_Name": "HOUSE MARAIS SET",
+        "Armor_Image": "https://i.pinimg.com/736x/18/94/02/189402f1a0ca4cbf456c3a767bc037d4.jpg",
+        "Damage_Negation": {
+            "Physical": 7.2,
+            "VS_Strike": 5.9,
+            "VS_Slash": 8.2,
+            "VS_Pierce": 4,
+            "Magic": 16.6,
+            "Fire": 16.3,
+            "Lightning": 16.3,
+            "Holy": 16.6
+        },
+        "Resistance": {
+            "Immunity": 62,
+            "Robustness": 42,
+            "Focus": 106,
+            "Vitality": 100,
+            "Poise": 12
+        },
+        "Armor_Weight": "6.3 Weight"
+    },
+    {
+        "Armor_Name": "IRON SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Mixed-Iron-1.jpg",
+        "Damage_Negation": {
+            "Physical": 23.4,
+            "VS_Strike": 19.5,
+            "VS_Slash": 23.8,
+            "VS_Pierce": 22.7,
+            "Magic": 15.7,
+            "Fire": 20.2,
+            "Lightning": 13.2,
+            "Holy": 16.4
+        },
+        "Resistance": {
+            "Immunity": 61,
+            "Robustness": 108,
+            "Focus": 36,
+            "Vitality": 40,
+            "Poise": 39
+        },
+        "Armor_Weight": "21 Weight"
+    },
+    {
+        "Armor_Name": "JUVENILE SCHOLAR SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Juvenile-Scholar-1.jpg",
+        "Damage_Negation": {
+            "Physical": 6.6,
+            "VS_Strike": 7.7,
+            "VS_Slash": 7.7,
+            "VS_Pierce": 6.6,
+            "Magic": 16.7,
+            "Fire": 15.4,
+            "Lightning": 16,
+            "Holy": 16.4
+        },
+        "Resistance": {
+            "Immunity": 53,
+            "Robustness": 35,
+            "Focus": 89,
+            "Vitality": 100,
+            "Poise": 9
+        },
+        "Armor_Weight": "5.5 Weight"
+    },
+    {
+        "Armor_Name": "KAIDEN SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Kaiden-1.jpg",
+        "Damage_Negation": {
+            "Physical": 23.5,
+            "VS_Strike": 17.6,
+            "VS_Slash": 23.5,
+            "VS_Pierce": 23.5,
+            "Magic": 16,
+            "Fire": 17.6,
+            "Lightning": 14.6,
+            "Holy": 16
+        },
+        "Resistance": {
+            "Immunity": 60,
+            "Robustness": 118,
+            "Focus": 33,
+            "Vitality": 33,
+            "Poise": 39
+        },
+        "Armor_Weight": "20.8 Weight"
+    },
+    {
+        "Armor_Name": "KNIGHT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Knight-1.jpg",
+        "Damage_Negation": {
+            "Physical": 24.6,
+            "VS_Strike": 23.6,
+            "VS_Slash": 26.5,
+            "VS_Pierce": 26.5,
+            "Magic": 21.7,
+            "Fire": 21.7,
+            "Lightning": 19.1,
+            "Holy": 17.8
+        },
+        "Resistance": {
+            "Immunity": 66,
+            "Robustness": 120,
+            "Focus": 43,
+            "Vitality": 43,
+            "Poise": 51
+        },
+        "Armor_Weight": "25.3 Weight"
+    },
+    {
+        "Armor_Name": "LAND OF REEDS SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Land-of-the-Reeds-1-1.jpg",
+        "Damage_Negation": {
+            "Physical": 17.8,
+            "VS_Strike": 19.1,
+            "VS_Slash": 24,
+            "VS_Pierce": 19.1,
+            "Magic": 20.4,
+            "Fire": 22.6,
+            "Lightning": 23.6,
+            "Holy": 21.7
+        },
+        "Resistance": {
+            "Immunity": 143,
+            "Robustness": 120,
+            "Focus": 98,
+            "Vitality": 130,
+            "Poise": 34
+        },
+        "Armor_Weight": "19.8 Weight"
+    },
+    {
+        "Armor_Name": "LAZULI SORCERER SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Lazuli-Sorcerer-1.jpg",
+        "Damage_Negation": {
+            "Physical": 12.4,
+            "VS_Strike": 14.7,
+            "VS_Slash": 12.8,
+            "VS_Pierce": 7.7,
+            "Magic": 25.7,
+            "Fire": 24.8,
+            "Lightning": 23.4,
+            "Holy": 24.5
+        },
+        "Resistance": {
+            "Immunity": 95,
+            "Robustness": 55,
+            "Focus": 137,
+            "Vitality": 130,
+            "Poise": 17
+        },
+        "Armor_Weight": "12.3 Weight"
+    },
+    {
+        "Armor_Name": "LEATHER SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Leather-1.jpg",
+        "Damage_Negation": {
+            "Physical": 17.2,
+            "VS_Strike": 20.3,
+            "VS_Slash": 17.5,
+            "VS_Pierce": 19,
+            "Magic": 20.3,
+            "Fire": 20.6,
+            "Lightning": 22.1,
+            "Holy": 21.6
+        },
+        "Resistance": {
+            "Immunity": 150,
+            "Robustness": 85,
+            "Focus": 98,
+            "Vitality": 116,
+            "Poise": 26
+        },
+        "Armor_Weight": "16.9 Weight"
+    },
+    {
+        "Armor_Name": "LEYNDELL FOOT SOLDIER SET",
+        "Armor_Image": "https://i.redd.it/p1n3gbbu19m91.jpg",
+        "Damage_Negation": {
+            "Physical": 20.4,
+            "VS_Strike": 22.8,
+            "VS_Slash": 19.4,
+            "VS_Pierce": 21.3,
+            "Magic": 22.5,
+            "Fire": 23.9,
+            "Lightning": 26.4,
+            "Holy": 23.4
+        },
+        "Resistance": {
+            "Immunity": 149,
+            "Robustness": 99,
+            "Focus": 129,
+            "Vitality": 129,
+            "Poise": 36
+        },
+        "Armor_Weight": "19.6 Weight"
+    },
+    {
+        "Armor_Name": "LEYNDELL KNIGHT SET",
+        "Armor_Image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/11/elden-ring-armor-best-leyndell-knight.jpg",
+        "Damage_Negation": {
+            "Physical": 26.5,
+            "VS_Strike": 24.6,
+            "VS_Slash": 26.5,
+            "VS_Pierce": 26.5,
+            "Magic": 20.4,
+            "Fire": 22.6,
+            "Lightning": 21.5,
+            "Holy": 21.1
+        },
+        "Resistance": {
+            "Immunity": 84,
+            "Robustness": 133,
+            "Focus": 57,
+            "Vitality": 57,
+            "Poise": 51
+        },
+        "Armor_Weight": "28.1 Weight"
+    },
+    {
+        "Armor_Name": "LEYNDELL SOLDIER SET",
+        "Armor_Image": "https://halfglassgaming.com/wp-content/uploads/2022/03/eldenring-leyndellsoldierset.jpg",
+        "Damage_Negation": {
+            "Physical": 25.3,
+            "VS_Strike": 24.4,
+            "VS_Slash": 23.3,
+            "VS_Pierce": 25.3,
+            "Magic": 18.6,
+            "Fire": 20.7,
+            "Lightning": 17.5,
+            "Holy": 18.9
+        },
+        "Resistance": {
+            "Immunity": 75,
+            "Robustness": 129,
+            "Focus": 54,
+            "Vitality": 54,
+            "Poise": 47
+        },
+        "Armor_Weight": "24.7 Weight"
+    },
+    {
+        "Armor_Name": "LIONEL'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Lionel-1.jpg",
+        "Damage_Negation": {
+            "Physical": 33.5,
+            "VS_Strike": 31.5,
+            "VS_Slash": 36.4,
+            "VS_Pierce": 37.2,
+            "Magic": 26.5,
+            "Fire": 28.9,
+            "Lightning": 25.6,
+            "Holy": 26.5
+        },
+        "Resistance": {
+            "Immunity": 150,
+            "Robustness": 235,
+            "Focus": 100,
+            "Vitality": 100,
+            "Poise": 86
+        },
+        "Armor_Weight": "50.5 Weight"
+    },
+    {
+        "Armor_Name": "LUSAT'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Lusat-1.jpg",
+        "Damage_Negation": {
+            "Physical": 15,
+            "VS_Strike": 9.7,
+            "VS_Slash": 15,
+            "VS_Pierce": 9.7,
+            "Magic": 29,
+            "Fire": 24.6,
+            "Lightning": 25.7,
+            "Holy": 26.1
+        },
+        "Resistance": {
+            "Immunity": 109,
+            "Robustness": 55,
+            "Focus": 181,
+            "Vitality": 209,
+            "Poise": 21
+        },
+        "Armor_Weight": "14.3 Weight"
+    },
+    {
+        "Armor_Name": "MALENIA'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Malenia-1.jpg",
+        "Damage_Negation": {
+            "Physical": 23.3,
+            "VS_Strike": 17,
+            "VS_Slash": 24.3,
+            "VS_Pierce": 21,
+            "Magic": 14.4,
+            "Fire": 17,
+            "Lightning": 11.4,
+            "Holy": 18.4
+        },
+        "Resistance": {
+            "Immunity": 108,
+            "Robustness": 90,
+            "Focus": 36,
+            "Vitality": 36,
+            "Poise": 37
+        },
+        "Armor_Weight": "20.5 Weight"
+    },
+    {
+        "Armor_Name": "MALFORMED DRAGON SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Malformed-Dragon-1-1.jpg",
+        "Damage_Negation": {
+            "Physical": 32.3,
+            "VS_Strike": 29.2,
+            "VS_Slash": 33.5,
+            "VS_Pierce": 32.3,
+            "Magic": 25.6,
+            "Fire": 25.6,
+            "Lightning": 27,
+            "Holy": 25.6
+        },
+        "Resistance": {
+            "Immunity": 135,
+            "Robustness": 181,
+            "Focus": 91,
+            "Vitality": 91,
+            "Poise": 67
+        },
+        "Armor_Weight": "38 Weight"
+    },
+    {
+        "Armor_Name": "MALIKETH'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Malekeith-1.jpg",
+        "Damage_Negation": {
+            "Physical": 26.5,
+            "VS_Strike": 23.6,
+            "VS_Slash": 27.5,
+            "VS_Pierce": 26.5,
+            "Magic": 21.7,
+            "Fire": 22.6,
+            "Lightning": 19.2,
+            "Holy": 25.4
+        },
+        "Resistance": {
+            "Immunity": 84,
+            "Robustness": 135,
+            "Focus": 57,
+            "Vitality": 120,
+            "Poise": 51
+        },
+        "Armor_Weight": "30.5 Weight"
+    },
+    {
+        "Armor_Name": "MARIONETTE SOLDIER SET",
+        "Armor_Image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/elden-ring-marionette-soldier-set.jpg",
+        "Damage_Negation": {
+            "Physical": 15.7,
+            "VS_Strike": 16.9,
+            "VS_Slash": 11.6,
+            "VS_Pierce": 12.2,
+            "Magic": 11.6,
+            "Fire": 11.6,
+            "Lightning": 8.8,
+            "Holy": 11.6
+        },
+        "Resistance": {
+            "Immunity": 34,
+            "Robustness": 72,
+            "Focus": 30,
+            "Vitality": 26,
+            "Poise": 24
+        },
+        "Armor_Weight": "12.6 Weight"
+    },
+    {
+        "Armor_Name": "MAUSOLEUM FOOT SOLDIER SET",
+        "Armor_Image": "https://pbs.twimg.com/media/FzAZP-6WAB4FRGj.jpg",
+        "Damage_Negation": {
+            "Physical": 17,
+            "VS_Strike": 17.6,
+            "VS_Slash": 17.7,
+            "VS_Pierce": 17,
+            "Magic": 19.6,
+            "Fire": 20.1,
+            "Lightning": 22,
+            "Holy": 20.1
+        },
+        "Resistance": {
+            "Immunity": 122,
+            "Robustness": 77,
+            "Focus": 106,
+            "Vitality": 101,
+            "Poise": 26
+        },
+        "Armor_Weight": "16 Weight"
+    },
+    {
+        "Armor_Name": "MAUSOLEUM KNIGHT SET",
+        "Armor_Image": "https://store.any4game.com/eldenring/article/2023-09-25/2ED8ADC24DDCw400h762.png",
+        "Damage_Negation": {
+            "Physical": 22.7,
+            "VS_Strike": 19.4,
+            "VS_Slash": 24.5,
+            "VS_Pierce": 21.9,
+            "Magic": 18.6,
+            "Fire": 19.4,
+            "Lightning": 17.5,
+            "Holy": 19.4
+        },
+        "Resistance": {
+            "Immunity": 69,
+            "Robustness": 107,
+            "Focus": 47,
+            "Vitality": 45,
+            "Poise": 45
+        },
+        "Armor_Weight": "23 Weight"
+    },
+    {
+        "Armor_Name": "MAUSOLEUM SOLDIER SET",
+        "Armor_Image": "https://eip.gg/wp-content/uploads/2022/03/SB_ICON_05_075.png",
+        "Damage_Negation": {
+            "Physical": 21.9,
+            "VS_Strike": 22.7,
+            "VS_Slash": 18.6,
+            "VS_Pierce": 21.1,
+            "Magic": 17.5,
+            "Fire": 17.5,
+            "Lightning": 15.1,
+            "Holy": 17.5
+        },
+        "Resistance": {
+            "Immunity": 63,
+            "Robustness": 98,
+            "Focus": 45,
+            "Vitality": 41,
+            "Poise": 43
+        },
+        "Armor_Weight": "20.7 Weight"
+    },
+    {
+        "Armor_Name": "MILLICENT'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Traveler-1.jpg",
+        "Damage_Negation": {
+            "Physical": 7.5,
+            "VS_Strike": 7.5,
+            "VS_Slash": 7.5,
+            "VS_Pierce": 4.8,
+            "Magic": 22.9,
+            "Fire": 21.6,
+            "Lightning": 22.6,
+            "Holy": 22.9
+        },
+        "Resistance": {
+            "Immunity": 75,
+            "Robustness": 41,
+            "Focus": "???",
+            "Vitality": 123,
+            "Poise": 12
+        },
+        "Armor_Weight": "6.3 Weight"
+    },
+    {
+        "Armor_Name": "MUSHROOM SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Mushroom-1.jpg",
+        "Damage_Negation": {
+            "Physical": 12.5,
+            "VS_Strike": 14.5,
+            "VS_Slash": 5.5,
+            "VS_Pierce": 10.9,
+            "Magic": 26.1,
+            "Fire": 10.9,
+            "Lightning": 25.3,
+            "Holy": 25.6
+        },
+        "Resistance": {
+            "Immunity": 243,
+            "Robustness": 57,
+            "Focus": 215,
+            "Vitality": 181,
+            "Poise": 11
+        },
+        "Armor_Weight": "12.1 Weight"
+    },
+    {
+        "Armor_Name": "NIGHT MAIDEN SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Night-Maiden-1.jpg",
+        "Damage_Negation": {
+            "Physical": 16.9,
+            "VS_Strike": 19.2,
+            "VS_Slash": 16.9,
+            "VS_Pierce": 19.1,
+            "Magic": 24.2,
+            "Fire": 22.7,
+            "Lightning": 23.3,
+            "Holy": 22.7
+        },
+        "Resistance": {
+            "Immunity": 148,
+            "Robustness": 92,
+            "Focus": 123,
+            "Vitality": 123,
+            "Poise": 34
+        },
+        "Armor_Weight": "19.3 Weight"
+    },
+    {
+        "Armor_Name": "NIGHT'S CAVALRY SET",
+        "Armor_Image": "https://i.redd.it/iqtdxxsamvca1.jpg",
+        "Damage_Negation": {
+            "Physical": 27.4,
+            "VS_Strike": 25.4,
+            "VS_Slash": 27.4,
+            "VS_Pierce": 26.5,
+            "Magic": 21.7,
+            "Fire": 24.9,
+            "Lightning": 21.7,
+            "Holy": 24.9
+        },
+        "Resistance": {
+            "Immunity": 91,
+            "Robustness": 135,
+            "Focus": 57,
+            "Vitality": 57,
+            "Poise": 53
+        },
+        "Armor_Weight": "30.5 Weight"
+    },
+    {
+        "Armor_Name": "NOBLE'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Noble-1.jpg",
+        "Damage_Negation": {
+            "Physical": 11.9,
+            "VS_Strike": 13.5,
+            "VS_Slash": 12.3,
+            "VS_Pierce": 12.5,
+            "Magic": 26.1,
+            "Fire": 26.4,
+            "Lightning": 25.4,
+            "Holy": 26.0
+        },
+        "Resistance": {
+            "Immunity": 110,
+            "Robustness": 57,
+            "Focus": 177,
+            "Vitality": 189,
+            "Poise": 21
+        },
+        "Armor_Weight": "14 Weight"
+    },
+    {
+        "Armor_Name": "NOMADIC MERCHANT'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Nomadic-Merchant-1.jpg",
+        "Damage_Negation": {
+            "Physical": 14.6,
+            "VS_Strike": 16,
+            "VS_Slash": 13,
+            "VS_Pierce": 12.3,
+            "Magic": 17.2,
+            "Fire": 17.2,
+            "Lightning": 17.2,
+            "Holy": 16
+        },
+        "Resistance": {
+            "Immunity": 116,
+            "Robustness": 66,
+            "Focus": 146,
+            "Vitality": 95,
+            "Poise": 25
+        },
+        "Armor_Weight": "14.2 Weight"
+    },
+    {
+        "Armor_Name": "NOX MONK SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Nox-Monk-1.jpg",
+        "Damage_Negation": {
+            "Physical": 18.3,
+            "VS_Strike": 19.7,
+            "VS_Slash": 18.3,
+            "VS_Pierce": 16.9,
+            "Magic": 23.9,
+            "Fire": 23,
+            "Lightning": 23,
+            "Holy": 19.7
+        },
+        "Resistance": {
+            "Immunity": 146,
+            "Robustness": 96,
+            "Focus": 114,
+            "Vitality": 114,
+            "Poise": 33
+        },
+        "Armor_Weight": "18.8 Weight"
+    },
+    {
+        "Armor_Name": "NOX SWORDSTRESS SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Nox-Swordstress-1.jpg",
+        "Damage_Negation": {
+            "Physical": 17.9,
+            "VS_Strike": 20.1,
+            "VS_Slash": 17.9,
+            "VS_Pierce": 18.2,
+            "Magic": 24.6,
+            "Fire": 22.1,
+            "Lightning": 23.9,
+            "Holy": 21.5
+        },
+        "Resistance": {
+            "Immunity": 143,
+            "Robustness": 92,
+            "Focus": 123,
+            "Vitality": 123,
+            "Poise": 35
+        },
+        "Armor_Weight": "19.3 Weight"
+    },
+    {
+        "Armor_Name": "OLD ARISTOCRAT SET",
+        "Armor_Image": "https://www.gamerguides.com/assets/media/14/794/old_aristocrat_gown.png",
+        "Damage_Negation": {
+            "Physical": 12.5,
+            "VS_Strike": 12.5,
+            "VS_Slash": 11.5,
+            "VS_Pierce": 12.5,
+            "Magic": 16.1,
+            "Fire": 17.7,
+            "Lightning": 16.5,
+            "Holy": 12.5
+        },
+        "Resistance": {
+            "Immunity": 82,
+            "Robustness": 51,
+            "Focus": 67,
+            "Vitality": 74,
+            "Poise": 15
+        },
+        "Armor_Weight": "9.3 Weight"
+    },
+    {
+        "Armor_Name": "OMEN SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Dung-Eater-1.jpg",
+        "Damage_Negation": {
+            "Physical": 34.9,
+            "VS_Strike": 29.2,
+            "VS_Slash": 35.5,
+            "VS_Pierce": 35.5,
+            "Magic": 25.6,
+            "Fire": 28.3,
+            "Lightning": 28.9,
+            "Holy": 27
+        },
+        "Resistance": {
+            "Immunity": 159,
+            "Robustness": 150,
+            "Focus": 135,
+            "Vitality": 181,
+            "Poise": 91
+        },
+        "Armor_Weight": "55.0 Weight"
+    },
+    {
+        "Armor_Name": "OMENKILLER SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Omenkiller-1.jpg",
+        "Damage_Negation": {
+            "Physical": 17.8,
+            "VS_Strike": 16.2,
+            "VS_Slash": 14.5,
+            "VS_Pierce": 14.5,
+            "Magic": 17.8,
+            "Fire": 19.1,
+            "Lightning": 22.6,
+            "Holy": 20.4
+        },
+        "Resistance": {
+            "Immunity": 159,
+            "Robustness": 66,
+            "Focus": 110,
+            "Vitality": 110,
+            "Poise": 34
+        },
+        "Armor_Weight": "16.9 Weight"
+    },
+    {
+        "Armor_Name": "PAGE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Page-1.jpg",
+        "Damage_Negation": {
+            "Physical": 11.4,
+            "VS_Strike": 10.1,
+            "VS_Slash": 8.3,
+            "VS_Pierce": 8.3,
+            "Magic": 22.6,
+            "Fire": 22.2,
+            "Lightning": 22.9,
+            "Holy": 22.9
+        },
+        "Resistance": {
+            "Immunity": 81,
+            "Robustness": 44,
+            "Focus": 156,
+            "Vitality": 156,
+            "Poise": 17
+        },
+        "Armor_Weight": 9
+    },
+    {
+        "Armor_Name": "PERFUMER SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Perfumer-1.jpg",
+        "Damage_Negation": {
+            "Physical": 9.6,
+            "VS_Strike": 13,
+            "VS_Slash": 11.7,
+            "VS_Pierce": 9.6,
+            "Magic": 25.5,
+            "Fire": 24,
+            "Lightning": 24.7,
+            "Holy": 25.5
+        },
+        "Resistance": {
+            "Immunity": 146,
+            "Robustness": 46,
+            "Focus": 158,
+            "Vitality": 168,
+            "Poise": 19
+        },
+        "Armor_Weight": 10.7
+    },
+    {
+        "Armor_Name": "PRECEPTOR'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Preceptor-1.jpg",
+        "Damage_Negation": {
+            "Physical": 12.8,
+            "VS_Strike": 14.1,
+            "VS_Slash": 12.8,
+            "VS_Pierce": 12.8,
+            "Magic": 28.5,
+            "Fire": 26.3,
+            "Lightning": 25.5,
+            "Holy": 25.5
+        },
+        "Resistance": {
+            "Immunity": 124,
+            "Robustness": 59,
+            "Focus": 206,
+            "Vitality": 190,
+            "Poise": 27
+        },
+        "Armor_Weight": 15.9
+    },
+    {
+        "Armor_Name": "PRISONER SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Prisoner-1.jpg",
+        "Damage_Negation": {
+            "Physical": 12.7,
+            "VS_Strike": 13.5,
+            "VS_Slash": 14.5,
+            "VS_Pierce": 12.7,
+            "Magic": 21.6,
+            "Fire": 21.2,
+            "Lightning": 20.8,
+            "Holy": 22.7
+        },
+        "Resistance": {
+            "Immunity": 97,
+            "Robustness": 81,
+            "Focus": 137,
+            "Vitality": 122,
+            "Poise": 21
+        },
+        "Armor_Weight": 13.8
+    },
+    {
+        "Armor_Name": "PROPHET SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Prophet-1.jpg",
+        "Damage_Negation": {
+            "Physical": 9.6,
+            "VS_Strike": 10.6,
+            "VS_Slash": 10.1,
+            "VS_Pierce": 9.6,
+            "Magic": 23.6,
+            "Fire": 22.3,
+            "Lightning": 22.4,
+            "Holy": 23.2
+        },
+        "Resistance": {
+            "Immunity": 86,
+            "Robustness": 44,
+            "Focus": 157,
+            "Vitality": 168,
+            "Poise": 16
+        },
+        "Armor_Weight": 10.4
+    },
+    {
+        "Armor_Name": "RENNALA QUEEN OF THE FULL MOON SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Queen-1.jpg",
+        "Damage_Negation": {
+            "Physical": 11.5,
+            "VS_Strike": 9.5,
+            "VS_Slash": 9.5,
+            "VS_Pierce": 6.7,
+            "Magic": 26.8,
+            "Fire": 24.6,
+            "Lightning": 25.1,
+            "Holy": 25.9
+        },
+        "Resistance": {
+            "Immunity": 96,
+            "Robustness": 58,
+            "Focus": 167,
+            "Vitality": 187,
+            "Poise": 16
+        },
+        "Armor_Weight": 11
+    },
+    {
+        "Armor_Name": "RADAHN FOOT SOLDIER SET",
+        "Armor_Image": "https://static.giga.de/wp-content/uploads/2022/06/elden-ring-fu%C3%9Fsoldaten-radahn-rcm480x0.jpg",
+        "Damage_Negation": {
+            "Physical": 21.3,
+            "VS_Strike": 21,
+            "VS_Slash": 19.4,
+            "VS_Pierce": 19.4,
+            "Magic": 23.4,
+            "Fire": 25.3,
+            "Lightning": 25.7,
+            "Holy": 23.4
+        },
+        "Resistance": {
+            "Immunity": 149,
+            "Robustness": 99,
+            "Focus": 129,
+            "Vitality": 129,
+            "Poise": 36
+        },
+        "Armor_Weight": 19.6
+    },
+    {
+        "Armor_Name": "RADAHN SOLDIER SET",
+        "Armor_Image": "https://img.rankedboost.com/wp-content/plugins/elden-ring/assets/armor/Raya%20Lucarian%20Soldier%20Set.png",
+        "Damage_Negation": {
+            "Physical": 26.3,
+            "VS_Strike": 21.4,
+            "VS_Slash": 24.4,
+            "VS_Pierce": 23.4,
+            "Magic": 20,
+            "Fire": 22.5,
+            "Lightning": 15.9,
+            "Holy": 18.9
+        },
+        "Resistance": {
+            "Immunity": 75,
+            "Robustness": 118,
+            "Focus": 54,
+            "Vitality": 57,
+            "Poise": 47
+        },
+        "Armor_Weight": 24.7
+    },
+    {
+        "Armor_Name": "RAGING WOLF SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Raging-Wolf-1.jpg",
+        "Damage_Negation": {
+            "Physical": 25.9,
+            "VS_Strike": 23,
+            "VS_Slash": 25.9,
+            "VS_Pierce": 24.9,
+            "Magic": 19.8,
+            "Fire": 22.1,
+            "Lightning": 13.8,
+            "Holy": 18.5
+        },
+        "Resistance": {
+            "Immunity": 75,
+            "Robustness": 131,
+            "Focus": 42,
+            "Vitality": 42,
+            "Poise": 42
+        },
+        "Armor_Weight": 24.2
+    },
+    {
+        "Armor_Name": "RAPTOR'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Raptor-1.jpg",
+        "Damage_Negation": {
+            "Physical": 15.1,
+            "VS_Strike": 16.6,
+            "VS_Slash": 18.1,
+            "VS_Pierce": 18.1,
+            "Magic": 19.4,
+            "Fire": 19.4,
+            "Lightning": 20.7,
+            "Holy": 18.1
+        },
+        "Resistance": {
+            "Immunity": 129,
+            "Robustness": 77,
+            "Focus": 136,
+            "Vitality": 136,
+            "Poise": 29
+        },
+        "Armor_Weight": 16.8
+    },
+    {
+        "Armor_Name": "RAYA LUCARIAN FOOT SOLDIER SET",
+        "Armor_Image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/raya_lucarian_foot_soldier_set.png",
+        "Damage_Negation": {
+            "Physical": 20.4,
+            "VS_Strike": 19.7,
+            "VS_Slash": 18.6,
+            "VS_Pierce": 18.6,
+            "Magic": 22.5,
+            "Fire": 22.5,
+            "Lightning": 21.7,
+            "Holy": 22.5
+        },
+        "Resistance": {
+            "Immunity": 150,
+            "Robustness": 79,
+            "Focus": 151,
+            "Vitality": 171,
+            "Poise": 27
+        },
+        "Armor_Weight": 19.7
+    },
+    {
+        "Armor_Name": "RAYA LUCARIAN SOLDIER SET",
+        "Armor_Image": "https://img.rankedboost.com/wp-content/plugins/elden-ring/assets/armor/Raya%20Lucarian%20Soldier%20Set.png",
+        "Damage_Negation": {
+            "Physical": 24.4,
+            "VS_Strike": 20.7,
+            "VS_Slash": 23.1,
+            "VS_Pierce": 22.1,
+            "Magic": 20.2,
+            "Fire": 21.7,
+            "Lightning": 16.2,
+            "Holy": 19.6
+        },
+        "Resistance": {
+            "Immunity": 87,
+            "Robustness": 115,
+            "Focus": 63,
+            "Vitality": 67,
+            "Poise": 47
+        },
+        "Armor_Weight": 26.8
+    },
+    {
+        "Armor_Name": "REDMANE KNIGHT SET",
+        "Armor_Image": "https://i.imgur.com/tHZ3mb0.jpeg",
+        "Damage_Negation": {
+            "Physical": 26.8,
+            "VS_Strike": 22.6,
+            "VS_Slash": 26.5,
+            "VS_Pierce": 24.6,
+            "Magic": 21.7,
+            "Fire": 25.1,
+            "Lightning": 19.1,
+            "Holy": 21.7
+        },
+        "Resistance": {
+            "Immunity": 84,
+            "Robustness": 130,
+            "Focus": 57,
+            "Vitality": 59,
+            "Poise": 51
+        },
+        "Armor_Weight": 28.1
+    },
+    {
+        "Armor_Name": "RONIN'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Ronin-1.jpg",
+        "Damage_Negation": {
+            "Physical": 21.5,
+            "VS_Strike": 21.2,
+            "VS_Slash": 22.6,
+            "VS_Pierce": 21.2,
+            "Magic": 23.4,
+            "Fire": 24.4,
+            "Lightning": 25.7,
+            "Holy": 23.4
+        },
+        "Resistance": {
+            "Immunity": 167,
+            "Robustness": 125,
+            "Focus": 132,
+            "Vitality": 140,
+            "Poise": 37
+        },
+        "Armor_Weight": 21.1
+    },
+    {
+        "Armor_Name": "ROTTEN DUELIST SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Rotten-Duelist-1.jpg",
+        "Damage_Negation": {
+            "Physical": 18.3,
+            "VS_Strike": 16.5,
+            "VS_Slash": 18.8,
+            "VS_Pierce": 18,
+            "Magic": 18.3,
+            "Fire": 18.6,
+            "Lightning": 19.7,
+            "Holy": 18.3
+        },
+        "Resistance": {
+            "Immunity": 142,
+            "Robustness": 98,
+            "Focus": 71,
+            "Vitality": 71,
+            "Poise": 34
+        },
+        "Armor_Weight": 15.7
+    },
+    {
+        "Armor_Name": "ROYAL KNIGHT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Royal-Knight-1.jpg",
+        "Damage_Negation": {
+            "Physical": 31,
+            "VS_Strike": 28.2,
+            "VS_Slash": 33.5,
+            "VS_Pierce": 32.3,
+            "Magic": 27.6,
+            "Fire": 26.1,
+            "Lightning": 24.6,
+            "Holy": 25.6
+        },
+        "Resistance": {
+            "Immunity": 120,
+            "Robustness": 159,
+            "Focus": 84,
+            "Vitality": 84,
+            "Poise": 53
+        },
+        "Armor_Weight": 36.9
+    },
+    {
+        "Armor_Name": "ROYAL REMAINS SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Royal-Remains-1.jpg",
+        "Damage_Negation": {
+            "Physical": 23.6,
+            "VS_Strike": 23.6,
+            "VS_Slash": 25.5,
+            "VS_Pierce": 23.6,
+            "Magic": 19.1,
+            "Fire": 20.4,
+            "Lightning": 16.2,
+            "Holy": 17.8
+        },
+        "Resistance": {
+            "Immunity": 84,
+            "Robustness": 135,
+            "Focus": 57,
+            "Vitality": 27,
+            "Poise": 44
+        },
+        "Armor_Weight": 25.3
+    },
+    {
+        "Armor_Name": "RULER'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Ruler-1.jpg",
+        "Damage_Negation": {
+            "Physical": 7,
+            "VS_Strike": 8.8,
+            "VS_Slash": 8.8,
+            "VS_Pierce": 5.4,
+            "Magic": 17,
+            "Fire": 16.2,
+            "Lightning": 16.8,
+            "Holy": 17.3
+        },
+        "Resistance": {
+            "Immunity": 66,
+            "Robustness": 34,
+            "Focus": 109,
+            "Vitality": 109,
+            "Poise": 13
+        },
+        "Armor_Weight": 7.3
+    },
+    {
+        "Armor_Name": "SAGE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Sage-1.jpg",
+        "Damage_Negation": {
+            "Physical": 11.9,
+            "VS_Strike": 10.8,
+            "VS_Slash": 10.8,
+            "VS_Pierce": 6.9,
+            "Magic": 23.9,
+            "Fire": 22.4,
+            "Lightning": 23,
+            "Holy": 23.9
+        },
+        "Resistance": {
+            "Immunity": 76,
+            "Robustness": 46,
+            "Focus": 141,
+            "Vitality": 150,
+            "Poise": 15
+        },
+        "Armor_Weight": "9.8 Weight"
+    },
+    {
+        "Armor_Name": "SANGUINE NOBLE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Sanguine-Noble-1.jpg",
+        "Damage_Negation": {
+            "Physical": 10.1,
+            "VS_Strike": 8.3,
+            "VS_Slash": 8.3,
+            "VS_Pierce": 8.3,
+            "Magic": 23.4,
+            "Fire": 20.7,
+            "Lightning": 22.9,
+            "Holy": 23.7
+        },
+        "Resistance": {
+            "Immunity": 97,
+            "Robustness": 37,
+            "Focus": 156,
+            "Vitality": 144,
+            "Poise": 17
+        },
+        "Armor_Weight": "9.0 Weight"
+    },
+    {
+        "Armor_Name": "SCALED SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Scaled-1.jpg",
+        "Damage_Negation": {
+            "Physical": 31,
+            "VS_Strike": 27.3,
+            "VS_Slash": 32.3,
+            "VS_Pierce": 31,
+            "Magic": 26.5,
+            "Fire": 27.6,
+            "Lightning": 25.6,
+            "Holy": 26.5
+        },
+        "Resistance": {
+            "Immunity": 135,
+            "Robustness": 197,
+            "Focus": 91,
+            "Vitality": 91,
+            "Poise": 71
+        },
+        "Armor_Weight": "38 Weight"
+    },
+    {
+        "Armor_Name": "SHAMAN SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Shaman-1.jpg",
+        "Damage_Negation": {
+            "Physical": 10.4,
+            "VS_Strike": 11.8,
+            "VS_Slash": 10.4,
+            "VS_Pierce": 15.3,
+            "Magic": 15.3,
+            "Fire": 13.8,
+            "Lightning": 15.3,
+            "Holy": 13
+        },
+        "Resistance": {
+            "Immunity": 135,
+            "Robustness": 91,
+            "Focus": 116,
+            "Vitality": 77,
+            "Poise": 18
+        },
+        "Armor_Weight": "11.5 Weight"
+    },
+    {
+        "Armor_Name": "SNOW WITCH SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Snow-Witch-1.jpg",
+        "Damage_Negation": {
+            "Physical": 10.1,
+            "VS_Strike": 11.5,
+            "VS_Slash": 11.5,
+            "VS_Pierce": 8,
+            "Magic": 23.4,
+            "Fire": 23.4,
+            "Lightning": 23.2,
+            "Holy": 23.4
+        },
+        "Resistance": {
+            "Immunity": 78,
+            "Robustness": 66,
+            "Focus": 146,
+            "Vitality": 146,
+            "Poise": 16
+        },
+        "Armor_Weight": "10.4 Weight"
+    },
+    {
+        "Armor_Name": "SPELLBLADE SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Spellblade-1.jpg",
+        "Damage_Negation": {
+            "Physical": 8.9,
+            "VS_Strike": 5.9,
+            "VS_Slash": 8.9,
+            "VS_Pierce": 8.9,
+            "Magic": 25.11,
+            "Fire": 22.6,
+            "Lightning": 23.5,
+            "Holy": 25.1
+        },
+        "Resistance": {
+            "Immunity": 86,
+            "Robustness": 44,
+            "Focus": 141,
+            "Vitality": 151,
+            "Poise": 15
+        },
+        "Armor_Weight": "8.6 Weight"
+    },
+    {
+        "Armor_Name": "TRAVELER'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Traveler-1.jpg",
+        "Damage_Negation": {
+            "Physical": 11.1,
+            "VS_Strike": 9.8,
+            "VS_Slash": 8.2,
+            "VS_Pierce": 5.8,
+            "Magic": 22.6,
+            "Fire": 21.5,
+            "Lightning": 21.8,
+            "Holy": 21.2
+        },
+        "Resistance": {
+            "Immunity": 72,
+            "Robustness": 47,
+            "Focus": 139,
+            "Vitality": 139,
+            "Poise": 16
+        },
+        "Armor_Weight": "8.9 Weight"
+    },
+    {
+        "Armor_Name": "TRAVELING MAIDEN SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Traveling-Maiden-1.jpg",
+        "Damage_Negation": {
+            "Physical": 10.7,
+            "VS_Strike": 12.4,
+            "VS_Slash": 12.4,
+            "VS_Pierce": 8.3,
+            "Magic": 26.2,
+            "Fire": 25.4,
+            "Lightning": 25.7,
+            "Holy": 26.2
+        },
+        "Resistance": {
+            "Immunity": 108,
+            "Robustness": 57,
+            "Focus": 177,
+            "Vitality": 193,
+            "Poise": 21
+        },
+        "Armor_Weight": "11 Weight"
+    },
+    {
+        "Armor_Name": "TREE SENTINEL ARMOR SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Tree-Sentinel-1.jpg",
+        "Damage_Negation": {
+            "Physical": 35.5,
+            "VS_Strike": 29.2,
+            "VS_Slash": 35.5,
+            "VS_Pierce": 33.5,
+            "Magic": 25.6,
+            "Fire": 32.9,
+            "Lightning": 24.9,
+            "Holy": 27.6
+        },
+        "Resistance": {
+            "Immunity": 159,
+            "Robustness": 215,
+            "Focus": 100,
+            "Vitality": 110,
+            "Poise": 82
+        },
+        "Armor_Weight": "45 Weight"
+    },
+    {
+        "Armor_Name": "TWINNED SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Twinned-Knight-1.jpg",
+        "Damage_Negation": {
+            "Physical": 27.4,
+            "VS_Strike": 25.4,
+            "VS_Slash": 29.6,
+            "VS_Pierce": 25,
+            "Magic": 23.5,
+            "Fire": 23.5,
+            "Lightning": 19,
+            "Holy": 21.5
+        },
+        "Resistance": {
+            "Immunity": 83,
+            "Robustness": 135,
+            "Focus": 53,
+            "Vitality": 135,
+            "Poise": 50
+        },
+        "Armor_Weight": "30 Weight"
+    },
+    {
+        "Armor_Name": "VAGABOND KNIGHT SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Vagabond-Knight-1-1.jpg",
+        "Damage_Negation": {
+            "Physical": 26.1,
+            "VS_Strike": 21.7,
+            "VS_Slash": 24.2,
+            "VS_Pierce": 23.2,
+            "Magic": 19.4,
+            "Fire": 21.2,
+            "Lightning": 17.2,
+            "Holy": 17.1
+        },
+        "Resistance": {
+            "Immunity": 81,
+            "Robustness": 133,
+            "Focus": 53,
+            "Vitality": 53,
+            "Poise": 46
+        },
+        "Armor_Weight": "23.8 Weight"
+    },
+    {
+        "Armor_Name": "VETERAN'S SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Veterans-1.jpg",
+        "Damage_Negation": {
+            "Physical": 35.5,
+            "VS_Strike": 32.7,
+            "VS_Slash": 35.5,
+            "VS_Pierce": 33.5,
+            "Magic": 26.5,
+            "Fire": 27.6,
+            "Lightning": 25.3,
+            "Holy": 26.1
+        },
+        "Resistance": {
+            "Immunity": 150,
+            "Robustness": 215,
+            "Focus": 110,
+            "Vitality": 110,
+            "Poise": 80
+        },
+        "Armor_Weight": "45 Weight"
+    },
+    {
+        "Armor_Name": "VULGAR MILITIA SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Vulgar-Militia-1.jpg",
+        "Damage_Negation": {
+            "Physical": 18,
+            "VS_Strike": 20.6,
+            "VS_Slash": 19.3,
+            "VS_Pierce": 16.6,
+            "Magic": 20.6,
+            "Fire": 20.6,
+            "Lightning": 21.8,
+            "Holy": 20.6
+        },
+        "Resistance": {
+            "Immunity": 162,
+            "Robustness": 84,
+            "Focus": 121,
+            "Vitality": 121,
+            "Poise": 35
+        },
+        "Armor_Weight": "18.5 Weight"
+    },
+    {
+        "Armor_Name": "WAR SURGEON SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/War-Surgeon-1.jpg",
+        "Damage_Negation": {
+            "Physical": 14.4,
+            "VS_Strike": 16.1,
+            "VS_Slash": 17.7,
+            "VS_Pierce": 14.4,
+            "Magic": 19,
+            "Fire": 20.3,
+            "Lightning": 21.6,
+            "Holy": 20.3
+        },
+        "Resistance": {
+            "Immunity": 127,
+            "Robustness": 91,
+            "Focus": 108,
+            "Vitality": 118,
+            "Poise": 29
+        },
+        "Armor_Weight": "16.6 Weight"
+    },
+    {
+        "Armor_Name": "WHITE REED SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/White-Reed-1.jpg",
+        "Damage_Negation": {
+            "Physical": 19.1,
+            "VS_Strike": 20.4,
+            "VS_Slash": 22.6,
+            "VS_Pierce": 17.8,
+            "Magic": 21.7,
+            "Fire": 21.7,
+            "Lightning": 23.6,
+            "Holy": 20.4
+        },
+        "Resistance": {
+            "Immunity": 159,
+            "Robustness": 100,
+            "Focus": 130,
+            "Vitality": 120,
+            "Poise": 37
+        },
+        "Armor_Weight": "19.8 Weight"
+    },
+    {
+        "Armor_Name": "ZAMOR SET",
+        "Armor_Image": "https://cdn.shortpixel.ai/spai/q_lossy+w_768+to_webp+ret_img/vulkk.com/wp-content/uploads/2022/04/Zamor-1.jpg",
+        "Damage_Negation": {
+            "Physical": 23.2,
+            "VS_Strike": 18.6,
+            "VS_Slash": 24.2,
+            "VS_Pierce": 21.2,
+            "Magic": 17.2,
+            "Fire": 17.2,
+            "Lightning": 11.9,
+            "Holy": 15.6
+        },
+        "Resistance": {
+            "Immunity": 47,
+            "Robustness": 147,
+            "Focus": 16,
+            "Vitality": 37,
+            "Poise": 38
+        },
+        "Armor_Weight": "20.5 Weight"
+    }
+]
